@@ -1,9 +1,5 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
 streamlit
+pandas
+plotly
 scikit-learn
-nltk
-joblib
+google-genai
